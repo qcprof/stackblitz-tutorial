@@ -1,4 +1,4 @@
-export default function MainHeading(props) {
+export default function MainHeading(props:any) {
   const tw = props.tw
   return (
     <>
