@@ -1,10 +1,8 @@
-import MH from "../components/MainHeading";
-
 export default function Page() {
   return (
     <>
       <main>
-        <MH tw='text-blue-500'>ABC</MH>
+        
         <h1 className='mb-4 text-4xl font-extrabold' >Services Page</h1>
        <p>https://1800accountant.com/ Every Service Business Owners Need
 Business Tax Preparation and Filing | Year-Round Tax Advisory | Quarterly Estimated Taxes | Bookkeeping | Franchise & Sales Tax | And more </p>
